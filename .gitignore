@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AulaRazorPages/.vs/AulaRazorPages
+/AulaRazorPages/src/AulaRazorPages.Web/bin/Debug/net8.0
+/AulaRazorPages/src/AulaRazorPages.Web/obj
