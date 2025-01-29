@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AulaRazorPages.Web", "src\AulaRazorPages.Web\AulaRazorPages.Web.csproj", "{C84D36A5-F091-40A8-849B-2ED3AA8F2E56}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-Tests", "01-Tests", "{D9D51DE2-96D8-4BCD-9817-2801A8C67126}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-Presentatrion", "02-Presentatrion", "{4C89A128-8727-4B2E-BB46-B622882DDADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C84D36A5-F091-40A8-849B-2ED3AA8F2E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C84D36A5-F091-40A8-849B-2ED3AA8F2E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C84D36A5-F091-40A8-849B-2ED3AA8F2E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C84D36A5-F091-40A8-849B-2ED3AA8F2E56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C84D36A5-F091-40A8-849B-2ED3AA8F2E56} = {4C89A128-8727-4B2E-BB46-B622882DDADF}
+	EndGlobalSection
+EndGlobal

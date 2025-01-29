@@ -1,0 +1,14 @@
+﻿@page "/movies"
+@model AulaRazorPages.Web.Pages.MoviesModel
+@{
+    ViewData["Title"] = "My Movies";
+}
+
+<h1>Movies</h1>
+
+<ul>
+    @foreach (var movie in Model.Movies)
+    {
+        <li><a href="/movie/@movie.Permalink">@movie.Nome</a></li>
+    }
+</ul>
